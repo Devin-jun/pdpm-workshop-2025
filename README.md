@@ -2,7 +2,7 @@
 
 A beginner‑friendly course on single‑cell RNA‑seq analysis, covering data characteristics, Scanpy workflow, manifold‑learning‑based dimensionality reduction, and trajectory inference with key mathematical concepts and practical examples.
 
----
+
 
 ## Table of Contents
 
@@ -78,12 +78,6 @@ This workshop will guide you through the fundamentals of single‑cell RNA‑seq
 - Visualizing embeddings and lineage trajectories  
 - Q&A with live debugging  
 
-### 6. Summary & Next Steps
-- Common pitfalls and best practices  
-- Further resources and community forums  
-- Ideas for extending analysis  
-
----
 
 ## Recommended Reading
 
